@@ -25,8 +25,8 @@ The housing society has provided a comprehensive dataset named "Final_Data.csv,"
 In this project, we aim to analyze a dataset containing information about residents and their flats in a housing society. To gain a comprehensive understanding of the data, several data exploration and preprocessing tasks are performed. The dataset contains details about residents, their flats, and event-related information, which will be used to extract insights for organizing the grand event.
 
 ## Datasets
-- **[Final_Data.csv](https://docs.google.com/spreadsheets/d/1yCPlTZQVcMRuBOHdSw2X1kXPhxsCrMsA0KqRRYrSokg/edit?usp=sharing)**: Contains information about residents, their flats, confirmed members, and donation details.
-- **[Decorators and Caterers Dataset](https://docs.google.com/spreadsheets/d/1VpRbVyq-uyLPT3b2r7HFou0WlnjpPLvmHybU4kNaTd4/edit?usp=sharing)**: Includes details about available decorators and catering services, their capacity, and costs.
+- **[Final_Data.csv](https://github.com/Anuragbiotech/Files/blob/d445cd9e290ea8b7339c93d2839c75e9afd88956/Final_Data%20-%20Final_Data.csv.csv)**: Contains information about residents, their flats, confirmed members, and donation details.
+- **[Decorators and Caterers Dataset](https://github.com/Anuragbiotech/Files/blob/d445cd9e290ea8b7339c93d2839c75e9afd88956/Caterer_info%20-%20Caterer_info.csv.csv)**: Includes details about available decorators and catering services, their capacity, and costs.
 
 ## Project Goals
 - **Demographic Analysis**: Understand the demographic distribution of the residents.
@@ -38,16 +38,13 @@ In this project, we aim to analyze a dataset containing information about reside
 - **Decorator and Caterer Analysis**: Evaluate decorators and caterers based on customer satisfaction and cost-effectiveness to enhance the event experience.
 
 ## Outcomes
-By the end of this capstone project, you will be able to approach problem statements more logically, applying Python concepts to real-world scenarios. This project provides hands-on learning, enhancing practical problem-solving skills and proficiency in Python programming. 
-
-The primary objective is to analyze the data to empower the housing society to make data-driven decisions, optimize event planning, and ensure efficient utilization of resources. By leveraging decorator and caterer data, we aim to enhance the event experience, minimize costs, and maximize resident satisfaction. The selection of the best caterer and decorator, based on customer satisfaction and cost-effectiveness, will play a crucial role in achieving these goals and ensuring the success of the grand event.
+By the end of this project, one will be able to approach problem statements more logically, applying Python concepts to real-world scenarios. This project provides hands-on learning, enhancing practical problem-solving skills and proficiency in Python programming. 
 
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Data Analysis Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization**: Matplotlib, Seaborn
 - **Environment**: Jupyter Notebook, Google Colab (optional)
-- **Version Control**: Git
 
 ## Analysis and Methodology
 1. **Data Loading and Basic Overview**: Load the "Final_Data.csv" dataset and perform an initial exploration.
